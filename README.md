@@ -10,7 +10,7 @@ red marked lines: active object value changed from inherit classes
 
 
 //not done now:
-* Listview refresh only on mouse click
+* Listview with data refresh on node change (atm only on mouse click on node)
 * array values are not in listview (but in code)
 * diff between 2 config files
 * showing (marked) inherited properties directly on selected class
